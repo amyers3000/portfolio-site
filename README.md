@@ -1,6 +1,8 @@
 # Portfolio
 This is a portfolio that lays out my skills, projects and info. Links to my social media and github are provided. Tailwind and React were used to build out the app.
 
+Porfolio Site: https://portfolio-alex-myers.herokuapp.com/
+
 ## Tools and Libraries
 React | React-Scroll | React-Icons | Tailwind-CSS | Font-Awesome Icons | EmailJs
 
