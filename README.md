@@ -5,7 +5,7 @@ This is a portfolio that lays out my skills, projects and info. Links to my soci
 React | React-Scroll | React-Icons | Tailwind-CSS | Font-Awesome Icons | EmailJs
 
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
